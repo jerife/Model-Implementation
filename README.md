@@ -1,9 +1,12 @@
 # Model_Implementation
-딥러닝 모델을 구현하고 기록하는 Repository입니다.
+## Repository for implementing and recording deep learning models. 🤖
 
 ### Computer Vision
-* Faster R-CNN
-* SSD (not yet)
+> * VGG16
+> * ResNet
+> * DenseNet
+> * Faster R-CNN
+> * SSD (not yet)
 
 ### Natural Language Processing
-* Seq2Seq with Attention
+>  * Seq2Seq with Attention
