@@ -9,3 +9,4 @@
 
 ### Natural Language Processing 💬
 > * [Seq2Seq with Attention](https://github.com/jerife/Model_Implementation/tree/main/Seq2Seq)
+> * [Transformer](https://github.com/jerife/Model_Implementation/tree/main/Transformer)
