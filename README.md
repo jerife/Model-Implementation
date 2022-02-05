@@ -1,4 +1,4 @@
-# Model_Implementation
+# Model-Implementation
 ## Repository for implementing and recording deep learning models. 🤖
 
 ### Computer Vision 👀
